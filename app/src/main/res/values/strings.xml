@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SimpleSpinnerDemo</string>
+    <string name="tv_title">Simple Spinner Demo</string>
+    <string-array name="spinner_year">
+        <item>2019</item>
+        <item>2018</item>
+        <item>2017</item>
+        <item>2016</item>
+        <item>2015</item>
+    </string-array>
+</resources>
